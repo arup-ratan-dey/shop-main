@@ -1,0 +1,4 @@
+
+Order #1 | 2025-04-20 15:04:30 | Items: 6 | Subtotal: $33.50 | Tax: $3.35 | Total: $36.85 | Order: {Philly Cheese Steak=1, Caramel Macchiato=1, Vegetarian Delight=1, Americano=1, Cappuccino=2}
+Order #2 | 2025-04-20 15:06:11 | Items: 7 | Subtotal: $59.20 | Tax: $5.92 | Total: $65.12 | Order: {Philly Cheese Steak=2, Vegetarian Delight=1, Chicken Avocado=1, Turkey BLT=2, Latte=1}
+Order #1 | 2025-04-20 15:45:42 | Items: 5 | Subtotal: $26.50 | Tax: $2.65 | Total: $29.15 | Order: {Philly Cheese Steak=1, Latte=1, Flat White=1, Cappuccino=2}
