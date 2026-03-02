@@ -46,17 +46,17 @@ A complete Java-based coffee shop management system with customer ordering, admi
 # File Structure
 coffee-shop/
 ├── src/
-│   ├── Shop.java            # Main entry point
-│   ├── CafeApp.java         # Main application window
-│   ├── MenuScreen.java      # Menu display
-│   ├── OrderScreen.java     # Order management
-│   ├── ReviewScreen.java    # Customer reviews
-│   ├── SalesReport.java     # Sales data
-│   └── SalesChart.java      # Data visualization
+│   ├── Shop.java          # Main entry point
+│   ├── CafeApp.java       # Main application window
+│   ├── MenuScreen.java    # Menu display
+│   ├── OrderScreen.java   # Order management
+│   ├── ReviewScreen.java  # Customer reviews
+│   ├── SalesReport.java   # Sales data
+│   └── SalesChart.java    # Data visualization
 ├── data/
-│   ├── sales.txt            # Transaction records
-│   └── reviews.txt          # Customer feedback
-└── images/                  # Menu and UI assets
+│   ├── sales.txt          # Transaction records
+│   └── reviews.txt        # Customer feedback
+└── images/                # Menu and UI assets
 
 
 
