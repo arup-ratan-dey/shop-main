@@ -101,6 +101,11 @@ coffee-shop/
 
 ![Sales Chart](https://github.com/arupratandey3250/Shop/blob/main/SalesChart.png)
 
+## 🎥 Project Demo
+
+Watch the full project demo video here:  
+[Arup's Coffee Suites Demo Video](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
 ## Contact
 ### For support or inquiries, please contact:
 
